@@ -1,0 +1,27 @@
+/* App Container */
+.App {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.App h1 {
+  text-align: center;
+  color: #333;
+}
+
+blockquote {
+  font-style: italic;
+  text-align: center;
+  color: #666;
+  margin: 10px 0;
+}
+
+blockquote footer {
+  font-size: 14px;
+  color: #999;
+}
